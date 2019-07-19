@@ -30,3 +30,6 @@ export { default as FlvPlayer } from './FlvPlayer';
 export { default as ImgViewer } from './ImgViewer';
 export { default as DateTimePicker } from './DateTimePicker'
 export { default as XUpload } from './XUpload'
+export { default as  CityPicker } from './CityPicker'
+export { default as  CityLinkage } from './CityLinkage'
+export { default as Progress } from './Progress'

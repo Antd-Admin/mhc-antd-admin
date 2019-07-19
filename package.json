@@ -71,6 +71,7 @@
     "eslint-plugin-react": "^7.10.0",
     "less": "^3.8.0",
     "less-loader": "^4.1.0",
-    "react-hot-loader": "^4.3.4"
+    "react-hot-loader": "^4.3.4",
+    "react-picker": "^1.2.11"
   }
 }
